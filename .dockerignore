@@ -1,0 +1,19 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+
+# Local environment variables
+.env.local
+
+# IDE configuration
+.vscode 
