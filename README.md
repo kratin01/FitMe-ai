@@ -182,7 +182,7 @@ This project is configured to run in a Docker container for a consistent develop
 </details>
 
 ---
-## �� Project Structure
+## 📂 Project Structure
 
 ```bash
 ├──fitme-ai/
